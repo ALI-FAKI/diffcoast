@@ -10,4 +10,4 @@ A differentiable, GPU‑native coastal ocean model written in Python using JAX.
 
 ## Installation
 ```bash
-pip install git+https://github.com/yourusername/diffcoast.git
+pip install git+https://github.com/ALI-FAKI/diffcoast.git
